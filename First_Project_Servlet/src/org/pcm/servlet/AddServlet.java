@@ -38,5 +38,4 @@ public class AddServlet extends HttpServlet {
 	 * response) throws ServletException, IOException { // TODO Auto-generated
 	 * method stub doGet(request, response); }
 	 */
-
 }
